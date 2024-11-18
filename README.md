@@ -1,2 +1,2 @@
 # CODSOFT
-This is my first CODSOFT internship program repository
+This repository is an demostration of how an ATM works with banking applications.
